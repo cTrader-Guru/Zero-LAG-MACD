@@ -45,12 +45,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\API\cAlgo.API.dll</HintPath>
     </Reference>
-    <Reference Include="cTrader-GURU">
-      <HintPath>..\..\..\..\..\GitHub\cTrader-GURU-Utility\DLL-COMPILED\cTrader-GURU.dll</HintPath>
-    </Reference>
-    <Reference Include="Updates">
-      <HintPath>..\..\..\..\cTrader GURU\dll\Updates\Updates\bin\Debug\Updates.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Zero LAG MACD.cs" />
